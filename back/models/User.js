@@ -1,6 +1,6 @@
 const Sequelize = require('sequelize') //para usar el modelo del user
-const db = require('../database/db.js')
-    //datos de nuestra BD
+const db = require('../config/db.js')
+
 module.exports = db.sequelize.define(
     'user', {
         id: {

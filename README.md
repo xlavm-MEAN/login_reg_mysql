@@ -30,11 +30,11 @@ Application MEAN with Mysql for login and register of user
 
 ## Execution of NodeJS Server
 1. Go to the server path in the CMD
-2. Enter the command `npm run dev`
+2. Enter the command `npm run dev` o `npm start`
 
 ## Execution of Angular Client
 1. Go to the server path in the CMD
-2. Enter the command `npm run dev`
+2. Enter the command `npm run dev` o `npm start`
 
 # Error Solutions
 For Error with: `rxjs` Go to the package.json and change: `"^6.1.0"` for this: `"6.1.0"`
